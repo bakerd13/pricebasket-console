@@ -1,0 +1,32 @@
+{
+  "Products": [
+    {
+      "Id": "45FBF67A-5693-4B53-955E-C6D2B23C8363",
+      "Name": "Soup",
+      "ContainerType": "Tin",
+      "Packaging": 1,
+      "UnitPrice": 0.65
+    },
+    {
+      "Id": "553FD4D7-0473-41E6-8A9A-54D95C84890F",
+      "ContainerType": "Loaf",
+      "Packaging": 1,
+      "Name": "Bread",
+      "UnitPrice": 0.80
+    },
+    {
+      "Id": "FA0E0693-6C42-4EBF-8395-B8426C453EFC",
+      "Name": "Milk",
+      "ContainerType": "Bottle",
+      "Packaging": 1,
+      "UnitPrice": 1.30
+    },
+    {
+      "Id": "42D08F9B-2A28-415A-9807-C37AC1CB3B45",
+      "ContainerType": "Bag",
+      "Packaging": 1,
+      "Name": "Apples",
+      "UnitPrice": 1.00
+    }
+  ]
+}
